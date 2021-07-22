@@ -1,8 +1,8 @@
 ---
-title: Talks that Last
+title: Resources
 description: |
-  This is a list for your talks, workshops, or other events with a time, date, and place.
-author: "The R Markdown Team @RStudio"
+  This is an overview of some of my favourite resources that have helped me learn in the last year.
+author: ""
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
