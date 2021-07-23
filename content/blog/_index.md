@@ -1,7 +1,7 @@
 ---
-title: A Blog That Works
+title: Blog
 description: |
-  This blog is a home for my smaller R experiments.
+  This blog is a home for my R experiments.
 author: ""
 show_post_thumbnail: true
 show_author_byline: false
