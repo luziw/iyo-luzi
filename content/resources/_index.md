@@ -3,10 +3,10 @@ title: Resources
 description: |
   This is an overview of some of my favourite resources that have helped me learn in the last year.
 author: ""
-show_post_thumbnail: true
-show_author_byline: true
-show_post_date: true
-show_post_time: true
+show_post_thumbnail: false
+show_author_byline: false
+show_post_date: false
+show_post_time: false
 # for listing page layout
 layout: list # list, list-sidebar
 
@@ -25,17 +25,17 @@ sidebar:
   text_link_url: /talk/index.xml
   show_sidebar_adunit: false # show ad container
 
-# set up common front matter for all pages inside blog/
+# set up common front matter for all pages inside resources/
 cascade:
-  author: "The R Markdown Team @RStudio"
-  show_author_byline: true
+  author: ""
+  show_author_byline: false
   show_post_date: true
-  show_post_time: true
+  show_post_time: false
   show_disqus_comments: false # see disqusShortname in site config
   # for single-sidebar layout
   sidebar:
     text_link_label: View recent talks
-    text_link_url: /talk/
+    text_link_url: /resources/
     show_sidebar_adunit: false # show ad container
 ---
 
