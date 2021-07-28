@@ -30,9 +30,9 @@ enableEmoji = true
 [params]
   orgName = "" # where you work / your organisation
   orgLocal = "Vienna"
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
+  description = ""
   favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  logo = "/img/lu_icon_free.png"
   mainSections = ["blog", "project", "resources"]
   navallcaps = false
   # show/hide social icons in site header & footer
@@ -43,7 +43,7 @@ enableEmoji = true
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/papillons.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "apreshill"
+  twitter = "luze_se"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
@@ -61,8 +61,8 @@ enableEmoji = true
   # serif options: Fraunces / EB Garamond / Bitter
   # sans-serif options: Commissioner / Alegreya Sans / Metropolis
   # if you import your own fonts, name them here too
-  customtextFontFamily = "EB Garamond"
-  customheadingFontFamily = "Fraunces"
+  customtextFontFamily = "Commissioner"
+  customheadingFontFamily = "Bitter"
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
   textFontFamily = "serif"
@@ -102,7 +102,7 @@ enableEmoji = true
 [menu]
   [[menu.header]]
     name = "About"
-    title = "About Blogophonic"
+    title = "About"
     url = "/about/"
     weight = 1
   [[menu.header]]
