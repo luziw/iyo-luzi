@@ -2,9 +2,9 @@
 title: "edX courses"
 subtitle: "HarvardX Data Science"
 excerpt: "There are a lot of free courses on edX on almost every topic. You can pay for certificates but auditing the material is usually free. I am currently working though the Data Science courses from HarvardX."
-date: 
+date: 2021-07-24
 date_end: ""
-author: ""
+author: "Luzi"
 location: ""
 draft: false
 # layout options: single, single-sidebar
